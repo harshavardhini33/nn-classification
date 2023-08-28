@@ -247,6 +247,3 @@ I![263532260-4e286a50-9c25-45d5-99a0-727ec8d54f7b](https://github.com/harshavard
 ## RESULT
 A neural network classification model is developed for the given dataset.
 
-Include your sample input and output here
-
-## RESULT
